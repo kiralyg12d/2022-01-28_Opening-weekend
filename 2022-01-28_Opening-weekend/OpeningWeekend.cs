@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _2022_01_28_Opening_weekend
 {
-    class Program
+    class OpeningWeekend
     {
         static void Main(string[] args)
         {
